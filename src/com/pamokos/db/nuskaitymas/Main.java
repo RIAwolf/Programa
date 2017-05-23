@@ -10,6 +10,9 @@ public class Main {
         int numeris = skaneris.nextInt();
         switch (numeris) {
             case 1:
+
+
+                /// mano pirmas darbas
                 PirmaUzduotis objektas1 = new PirmaUzduotis();
                 objektas1.pasisveikinimas();
                 objektas1.nuskaitymas();
